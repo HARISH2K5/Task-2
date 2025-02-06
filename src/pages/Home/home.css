@@ -1,0 +1,7 @@
+.home-container {
+    background-image: url("D:\react learn\react\src\assets\images\bg.png");
+    background-size: cover;
+    background-position: right;
+    height: 100vh;
+    width: 100%;
+  }
